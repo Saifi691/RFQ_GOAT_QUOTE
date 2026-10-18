@@ -1,0 +1,10 @@
+azure-functions>=1.21,<2
+azure-storage-blob>=12.24,<13
+beautifulsoup4>=4.12,<5
+openpyxl>=3.1,<4
+openai>=1.66,<3
+pypdf>=6.1,<7
+fonttools>=4.50,<5
+python-dotenv>=1.0,<2
+requests>=2.32,<3
+truststore>=0.10,<1

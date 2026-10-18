@@ -4,3 +4,12 @@ __pycache__/
 ~$*
 .venv/
 venv/
+.packages/
+.tools/
+.azure/
+.pytest_cache/
+pytest-cache-files-*/
+.env.*
+!.env.example
+local.settings.json
+*.zip

@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "RFQ_BROWSER": "false",
+    "RFQ_QUALITY": "rules",
+    "RFQ_MAIL_ENABLED": "false"
+  }
+}

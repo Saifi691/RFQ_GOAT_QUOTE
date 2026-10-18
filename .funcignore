@@ -1,0 +1,16 @@
+.git/
+.venv/
+.packages/
+.pytest_cache/
+__pycache__/
+tests/
+out/
+reference/
+emails/
+.env
+.env.*
+local.settings.json
+local.settings.example.json
+requirements-dev.txt
+frontend/
+dashboard.py
